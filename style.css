@@ -1,0 +1,19 @@
+body{
+    background-color:rgba(250, 114, 237, 0.959);
+}
+#title{
+    font-size:40px;
+    color:white;
+    margin-left:360px;
+
+}
+@media (max-width : 768px){
+   #title{
+    font-size:25px;
+    color:white;
+    margin-left:50px;
+
+}
+
+
+}
